@@ -1,0 +1,77 @@
+#header {
+	margin-top: 10px;
+}
+
+
+.container {
+	padding-left: 0px;
+}
+
+.borde {
+	border-left-color: #861f41;
+	border-left-width: 100px;
+	border-left-style: solid;
+	
+}
+
+.google {
+
+}
+
+#titulo {
+	margin-top: 50px;
+}
+.rojo { 
+	color: #861f41;
+	margin-left: 20px;
+	 }
+
+#emblema {
+	height: 100px;
+}
+
+.escudo {
+	padding-top: 25px;
+}
+
+.separador {
+	border: 3px solid #861f41;
+	margin-top: 15px;
+
+}
+
+.subrayado {
+	text-decoration: underline;
+	color: 
+}
+.nom_aplicacio {
+	color: #861f41;
+	font-weight:bold;
+
+}
+.centrado {
+	text-align: center;
+}
+
+.fa-angle-right {
+	color:#861f41;
+}
+
+.nodecoration{
+	list-style : none;
+}
+
+a:link , a:visited {
+	color: #861f41;
+}
+a:hover {
+	font-weight:bold;
+	text-decoration: none;
+}
+a:focus {
+	text-decoration: none;
+}
+li {
+	color: #861f41;
+	
+}
